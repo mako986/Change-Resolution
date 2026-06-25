@@ -1,0 +1,23 @@
+{
+    "id": "ter986.change-resolution",
+    "version": "v1.0.0",
+    "name": "Change Resolution",
+    "developer": "ter986",
+    "description": "Change the resolution and fix click issues",
+    "geode": "5.7.1",
+    "gd": {
+        "win": "2.2081"
+    },
+    "settings": {
+        "width": {
+            "name": "Width",
+            "type": "int",
+            "default": 0
+        },
+        "height": {
+            "name": "Height",
+            "type": "int",
+            "default": 0
+        }
+    }
+}
